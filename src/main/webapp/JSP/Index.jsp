@@ -13,7 +13,7 @@
 			<li> Cuadernos2 </li>
 			<li> Marcadores </li>
 			<li> Lapiceros </li>
-			<li> Varios Borradores </li>
+			<li> Var Borradores </li>
 		
 		
 		</ul>
